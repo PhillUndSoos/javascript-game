@@ -1,3 +1,4 @@
-# javascript-game
+# sprite-animation
 
-Nothing to see here
+Just a sprite animation using basic CSS and some advanced JavaScript.
+Take a look, its cute
