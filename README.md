@@ -1,3 +1,3 @@
-# javascript-game
+# sprite-animation
 
 Nothing to see here
